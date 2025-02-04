@@ -68,7 +68,7 @@ jobs:
           echo "Running step 1"
           sleep 2
       - run: |
-          echo "Job is trying to configure environment
+          echo "Job is trying to configure environment"
           sleep 4
       - run: |
           echo "Additional configuration applying"
